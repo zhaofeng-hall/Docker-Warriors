@@ -10,3 +10,4 @@ Name | GitHub ID | Location | Organisation
 周宇哲|[zhouyuzhe88](https://github.com/zhouyuzhe88)|杭州|浙江大学
 何思玫|[dalanlan](https://github.com/dalanlan)|杭州|浙江大学
 冯明振|[fmzhen](https://github.com/fmzhen)|杭州|浙江大学
+仇臣|[cheney90](https://github.com/cheney90)|杭州|浙江大学
