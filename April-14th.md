@@ -2,7 +2,7 @@
 
 by [肖德时](https://github.com/xiaods)
 
-- 对于setns加入存在的进程，加入后会使用clone创建子进程，把老进程结束，为什么setns直接用的问题得到了解决。具体答案请ping[孙健波](https://github.com/wonderflow)，他写的文章可以作为参考。
+- 对于setns加入存在的进程，加入后会使用clone创建子进程，把老进程结束，为什么setns直接用的问题得到了解决。具体答案请ping[孙健波](https://github.com/wonderflow)，他写的[文章](http://www.infoq.com/cn/articles/docker-kernel-knowledge-namespace-resource-isolation)可以作为参考。
 
 - 华为的开发者还是很猛，战果丰硕。建议华为的开发者能多关注compose/swarm/distribution项目
 
