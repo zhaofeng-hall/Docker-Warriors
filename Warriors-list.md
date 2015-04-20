@@ -11,3 +11,4 @@ Name | GitHub ID | Location | Organisation
 何思玫|[dalanlan](https://github.com/dalanlan)|杭州|浙江大学
 冯明振|[fmzhen](https://github.com/fmzhen)|杭州|浙江大学
 仇臣|[cheney90](https://github.com/cheney90)|杭州|浙江大学
+线超博|[jimmyxian](https://github.com/jimmyxian)|西安|华为
