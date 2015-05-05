@@ -1,8 +1,9 @@
+
 # Docker-Warriors
 A list of the Chinese team who commit and contribute to Docker
 
 Name | GitHub ID | Location | Organisation
------| ----------| ---------- |------------
+:-----:| :----------:| :----------: |:------------:
 肖德时| [xiaods](https://github.com/xiaods) | 北京| 数人科技|
 张磊 | [resouer](https://github.com/resouer)|杭州|浙江大学
 陈星宇|[wizard-cxy](https://github.com/wizard-cxy)|杭州|浙江大学
@@ -27,3 +28,6 @@ Name | GitHub ID | Location | Organisation
 谢可杨|[xiekeyang](https://github.com/xiekeyang)|？|华为
 余长春|[yuchangchun1](https://github.com/yuchangchun1)|？|华为
 张伟|[weizhang555](https://github.com/weizhang555)|？|华为
+刘斌|[liubin](https://github.com/liubin)|北京|天使汇
+孙宇聪|[sunyc](https://github.com/sunyc)|深圳|coding.net
+
