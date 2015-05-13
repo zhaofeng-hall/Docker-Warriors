@@ -24,4 +24,5 @@ Daniel Zhang|jmzwcn|√|O|O|O|O|O|O
 何思玫|dalanlan|√|O|O|O|O|O|O
 肖德时|xiaods|√|O|O|O|O|O|O
 孙建波|wonderflow|O|√|O|O|O|O|O
+JunXU|junxu|O|√|O|O|O|O|O
 
