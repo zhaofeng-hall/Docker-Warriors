@@ -28,5 +28,5 @@ Name | GitHub ID | Location | Organisation
 余长春|[yuchangchun1](https://github.com/yuchangchun1)|？|华为
 张伟|[weizhang555](https://github.com/weizhang555)|？|华为
 刘斌|[liubin](https://github.com/liubin)|北京|天使汇
-孙宇聪|[sunyc](https://github.com/sunyc)|深圳|coding.net
+孙宇聪|[sunyc](https://github.com/thefallentree)|深圳|coding.net
 junxu|[junxu](https://github.com/junxu)|苏州|中国移动
