@@ -20,7 +20,7 @@
 张伟|WeiZhang555|√|O|O|O|O|O|O
 Daniel Zhang|jmzwcn|√|O|O|O|O|O|O
 刘斌|liubin|O|√|√|O|O|O|O
-孙宇聪|sunyc|O|O|√|O|O|O|O
+孙宇聪|thefallentree|O|O|√|O|O|O|O
 何思玫|dalanlan|√|O|O|O|O|O|O
 肖德时|xiaods|√|O|O|O|O|O|O
 孙建波|wonderflow|O|√|O|O|O|O|O
